@@ -8,6 +8,8 @@
 
 当前状态：**还未租掉**。
 
+在线地址：（**推荐**）<https://gitee.com/DLX4/find-roommate>   <https://github.com/DLX4/find-roommate>
+
 常见疑问：
 
 - 户型：两室一厅+厨房+卫生间
